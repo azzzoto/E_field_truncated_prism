@@ -4,4 +4,6 @@ E and V can be plotted using the dat files, for example (using Gnuplot):
 
 
 $ splot 'vtot.dat'
+
+
 $ plot 'etot.dat' u vec
